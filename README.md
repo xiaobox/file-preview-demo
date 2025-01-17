@@ -132,11 +132,13 @@ npm run serve
 ```
 
 ### 生产环境构建
+
 ```bash
 npm run build
 ```
 
 ### 代码检查
+
 ```bash
 npm run lint
 ```
