@@ -1,6 +1,6 @@
 # 文件预览解决方案
 
-这是一个基于 Vue.js 的文件预览解决方案，支持主流办公文件的在线预览，包括 Word、Excel、PPT 和 PDF 文件。
+这是一个基于 Vue 2 的文件预览解决方案，支持主流办公文件的在线预览，包括 Word、Excel、PPT 和 PDF 文件。本项目采用 Vue 2 技术栈开发，确保了更好的兼容性和稳定性。
 
 ![项目首页截图](https://xiaobox-public-images.oss-cn-beijing.aliyuncs.com/imagesCleanShot%202025-01-17%20at%2010.52.53%402x.png)
 
@@ -22,8 +22,8 @@
 
 ## 技术栈
 
-- 框架：Vue.js 2.7.x
-- 路由：Vue Router 3.6.x
+- 核心框架：Vue 2.7.x（使用 Vue 2 的最新稳定版本）
+- 路由管理：Vue Router 3.6.x（与 Vue 2 配套的路由版本）
 - 文件预览：
   - Word：@vue-office/docx
   - Excel：@vue-office/excel
